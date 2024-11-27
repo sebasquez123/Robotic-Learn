@@ -1,10 +1,10 @@
 <div style="align:justify;">
-# Robotic-Learn
- A robotic arm project for machine learning
+# Robotics-learn and automation
+ BRAZO ROBOTICO CON VISION ARTIFICIAL
  
-## Un propósito educativo
+## AUTOMATIZACIÓN INDUSTRIAL EN LA ACADEMIA
 
- El propósito del proyecto es enaltecer el orgullo del programa de ingeniera mecatrónica compartiendo tecnología de vanguardia dentro del plan de extensión. su objetivo real es potenciar la apropiación tecnológica de los estudiantes por medio de proyectos complejos y desafiantes; un proyecto de machine learning aplicado a la optimización de procesos de automatización industrial, que puede expandir el nivel de pensamiento resolutivo y generar conciencia ética respecto a las tecnologías de aprendizaje profundo. 
+ El propósito del proyecto es apropiar conocimiento tecnológico para el programa de ingeniera mecatrónica de la universidad tecnológica de Pereira compartiendo tecnología de vanguardia dentro del plan de extensión. su objetivo real es potenciar la apropiación tecnológica de los estudiantes por medio de proyectos complejos y desafiantes; un proyecto de machine learning aplicado a la optimización de procesos de automatización industrial, que puede expandir el nivel de pensamiento resolutivo y generar conciencia ética respecto a las tecnologías de aprendizaje profundo. 
 
  El proyecto es el desarrollo de una aplicación de visión artificial aplicado a un brazo robótico kawasaki característico de un entorno industrial de alto nivel, capaz de manipular objetos o seguir marquillas de piezas simétricas desde la vista superior a un plano cuadriculado limpio. su principal objetivo es ubicar piezas regulares o irregulares desde un contenedor hasta la ubicación especifica ubicada por el operador dentro del plano. una de las características más importantes del desarrollo es la recolección de información visual por medio de una cámara fija de vista superior para estimar la ubicación en coordenadas cartesianas y la rotación del objeto en el plano.
 
