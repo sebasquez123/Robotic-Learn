@@ -1,3 +1,4 @@
+<div style="align:justify;">
 # Robotic-Learn
  A robotic arm project for machine learning
  
@@ -8,7 +9,7 @@
  El proyecto es el desarrollo de una aplicación de visión artificial aplicado a un brazo robótico kawasaki característico de un entorno industrial de alto nivel, capaz de manipular objetos o seguir marquillas de piezas simétricas desde la vista superior a un plano cuadriculado limpio. su principal objetivo es ubicar piezas regulares o irregulares desde un contenedor hasta la ubicación especifica ubicada por el operador dentro del plano. una de las características más importantes del desarrollo es la recolección de información visual por medio de una cámara fija de vista superior para estimar la ubicación en coordenadas cartesianas y la rotación del objeto en el plano.
 
  El modelo de machine learning usado es un árbol profundo de “scikitlearn” ya que no requiere mayor capacidad de procesamiento y su principal fuente de datos es un algoritmo de generación automática de imágenes sintéticas a partir de la manipulación de pocos datos reales tomados con una cámara. 
-
+</div>
  Las tecnologías usadas son:
 
 - Python 3  ---> principal lenguaje de programación
@@ -20,7 +21,13 @@
 - Robot kawasaki, AS language y protocolos Ethernet ---> protocolos de comunicación, robótica y lenguaje de maquina vectorial.
 
 
+![](https://github.com/sebasquez123/Robotic-Learn/blob/main/figures/111.png)
 
+![](https://github.com/sebasquez123/Robotic-Learn/blob/main/figures/222.png)
+
+![](https://github.com/sebasquez123/Robotic-Learn/blob/main/figures/333.png)
+
+![](https://github.com/sebasquez123/Robotic-Learn/blob/main/figures/444.png)
 
 
 
